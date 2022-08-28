@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "C 1"
+Script: "C"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  2967d73452fd4e2fa9fb3473de4ea625:
+    Name: "C"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

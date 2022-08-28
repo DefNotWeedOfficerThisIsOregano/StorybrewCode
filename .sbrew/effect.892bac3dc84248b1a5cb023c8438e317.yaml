@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "Start 1"
+Script: "Start"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "9"
+    DisplayName: "Random seed"
+Layers:
+  321fde631b2e4a6f9779aba75859b2e8:
+    Name: "Start"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

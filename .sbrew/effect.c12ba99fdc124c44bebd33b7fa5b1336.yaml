@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "H 1"
+Script: "H"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  9fc8bbad9239444ab31c56789ea83266:
+    Name: "H"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
